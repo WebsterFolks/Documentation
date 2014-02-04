@@ -2,17 +2,17 @@
 
 ---
 
-#### Requirements 
+#### Requirements
 Before getting started with installation check if you host meets the requirements:
 
 - PHP >= 5.3.7
 - MCrypt PHP Extension
-- Port 43 enabled and accessible via PHP function fsockopen 
+- Port 43 enabled and accessible via PHP function fsockopen
 
 Note: Normally, all these requirements are available in all shared hosts.
 
 #### Installation Instructions
-To install this script first you need to generate a key from our key generator tool [Goto Key Generator](http://v5.websterfolks.com/key/generator/beta)
+To install this script first you need to generate a key from our key generator tool [Goto Key Generator](http://v5.websterfolks.com/key/generator)
 
 Once you have got the key, note it down somewhere safe and follow these steps.
 
