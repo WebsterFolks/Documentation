@@ -17,9 +17,9 @@ To install this script first you need to generate a key from our key generator t
 Once you have got the key, note it down somewhere safe and follow these steps.
 
 - Unzip files on your computer
-- Now edit `app/config/app.php` and search for `YOUR_API_KEY_HERE`. Now replace it with the key that you generated before.
+- Now edit `app/config/production/app.php` and replace `YOUR_API_KEY_HERE` with the key that you generated before.
 - Create a MySQL database at your host.
-- Edit `app/config/database.php` and fill in your database details like this:
+- Edit `app/config/production/database.php` and fill in your database details like this:
 
 <pre>
 	'mysql' => array(
@@ -35,9 +35,9 @@ Once you have got the key, note it down somewhere safe and follow these steps.
 </pre>
 
 - You need to change values of only three things here `database`, `username` & `password`.
-- Now chmod `app/storage` folder to 777.
-- Open `http://www.yourdomain.com/install` in your browser, add all the asked information.
+- Now chmod `app/storage` and all folders under it to 777.
+- Open `http://www.yourdomain.com/install` in your browser, provide the asked information and done.
 
 
-If everything goes good then your should see a success message else [contact support](http://v5.websterfolks.com/support) for help.
+If everything goes good then you should see a success message else [contact support](http://v5.websterfolks.com/support) for help.
 

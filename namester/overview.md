@@ -5,7 +5,7 @@
 
 <img alt="Namester%20Whois" data-src="holder.js/100%x225/namester/text:Namester%20Whois">
 
-Namester Whois lets you find whois data for a wide variety of domains. With additional SEO stats, meta info, IP location, DNS Info and website screenshot, it is the most fully fledged whois script. Simple and easy to use, have it up and running in minutes with no PHP experience. Namester Whois is comes with a responsive design and has been tested across most devices.
+Namester Whois lets you find whois data for a wide variety of domains with SEO stats, Meta Info, IP location, DNS Records, Website ScreenShot & many other Stats. It is the most fully fledged whois script built on rock solid Laravel Framework. Simple and easy to use, have it up and running in minutes with no PHP experience. 
 
 <div class="btn-group btn-group-justified">
 	<a href="http://v5.websterfolks.com/demo/namester" class="btn btn-info">Demo</a>
@@ -27,10 +27,11 @@ Holder.add_theme("namester", {background:"#F35A0D", foreground:"#ffffff", size: 
 - Domain Review with SEO Stats and rankings.
 - SEO Stats like Alexa Rank & Google PageRank
 - Powerful Admin Control Panel.
-- Fully SEO Optimized.
-- Domain WebShots with local storage for superior performance.
+- Fully SEO Optimised.
+- Website ScreenShots with local storage for superior performance.
 - Meta Information like meta title, description & keywords.
 - A Clean and Responsive Design that works on all devices.
-- Custom Pages
-- Extremely clean urls for even better SEO
-- Possible to add Ads with prefect spots to increase click throughs.
+- Custom Pages with contact form support + STMP support.
+- Extremely clean urls for even better SEO.
+- Multiple Ad Locations with prefect spots to increase click throughs.
+- Spam Protection against various bots.
